@@ -6,3 +6,8 @@
  *
  * Copyright (c) 2023 IMT School, ARM Course
  */
+
+#ifndef RCC_CFG_H_
+#define RCC_CFG_H_
+
+#endif /* End of file RCC_Cfg.h */
